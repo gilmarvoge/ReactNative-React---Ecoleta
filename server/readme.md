@@ -40,4 +40,4 @@ ao fazer cadastro, popular dados no banco com dados padrões
    --seedfiles do knex
    "knex:seed":"knex  --knexfile knexfile.ts seed:run",
 
-   1:29 olhando oportn
+   1:29 olhando oportn d
