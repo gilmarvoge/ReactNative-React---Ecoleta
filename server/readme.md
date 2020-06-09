@@ -31,7 +31,13 @@ npm install sqlite3
 
  rodar comandos criar tabela
    npx knex migrate:latest --knexfile knexfile.ts migrate:latest
-   add no package.json:"knex:migrate":"knex migrate:latest --knexfile knexfile.ts migrate:latest"
+   add no package.json:"knex:migrate":"knex  --knexfile knexfile.ts migrate:latest"
    npm run knex:migrate
 
 para visualizar tabela, instalar complemento sqllite no vscode, e abrir pelo command pallet
+
+ao fazer cadastro, popular dados no banco com dados padrões
+   --seedfiles do knex
+   "knex:seed":"knex  --knexfile knexfile.ts seed:run",
+
+   1:29 olhando oportn
