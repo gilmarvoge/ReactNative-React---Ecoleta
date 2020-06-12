@@ -40,4 +40,6 @@ ao fazer cadastro, popular dados no banco com dados padrões
    --seedfiles do knex
    "knex:seed":"knex  --knexfile knexfile.ts seed:run",
 
+   knex.transaction() esperar uma query terminar para rodar outra
+
    1:29 olhando oportn d
