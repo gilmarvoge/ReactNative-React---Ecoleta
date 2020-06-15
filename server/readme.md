@@ -42,4 +42,13 @@ ao fazer cadastro, popular dados no banco com dados padrões
 
    knex.transaction() esperar uma query terminar para rodar outra
 
-   1:29 olhando oportn d
+   index, - listar
+   show -- listar 1 item,
+   update
+   delete
+
+   melhorar estrutura/organização
+   //service pattern
+   // repository pattern-(data-mapper)
+
+   1:49 olhando oportn d
