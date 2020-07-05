@@ -68,4 +68,4 @@ $ `npm start`
 # running in expo simulator
 ```
 
-Project developed during the **NLW - Next Level Week** [Rocketseat]
+
