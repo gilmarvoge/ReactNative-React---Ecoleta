@@ -24,7 +24,7 @@ Register on the web by sending:
  ![Mobile points](https://github.com/gilmarvoge/React---Ecoleta/blob/master/mobile/assets/mobile-points.png)
  ![Mobile detail](https://github.com/gilmarvoge/React---Ecoleta/blob/master/mobile/assets/mobile-detail.png)
  
-### Web
+### :desktop_computer: Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./frontend/src/assets/web.svg" width="400px"> 
