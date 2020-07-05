@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" title="#" src="./frontend/src/assets/banner.png" />
+    <img alt="" title="#" src="./frontend/src/assets/reactReactNative.png" />
 </h1>
 
 ## 💻 About
