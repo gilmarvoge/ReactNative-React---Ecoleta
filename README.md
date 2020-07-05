@@ -50,5 +50,4 @@ $ npm run start
 # running at http://localhost:3000
 ```
 
-
-Projeto desenvolvido durante a **NLW - Next Level Week** [Rocketseat]
+Project developed during the **NLW - Next Level Week** [Rocketseat]
