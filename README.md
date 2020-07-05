@@ -26,8 +26,10 @@ Register on the web by sending:
 
 ## 🛠 Technology
 
+- [Expo][expo]
 - [Node.js][nodejs]
 - [React][reactjs]
+- [React Native][rn]
 - [TypeScript][typescript]
 
 
@@ -41,13 +43,21 @@ $ npm run dev:server
 #running at http://localhost:3333 
 ```
 
-### 🧭 Run web (Front End)
+### :desktop_computer: Run web (Front End)
 
 ```bash
 $ cd frontend
 $ npm install
 $ npm run start
 # running at http://localhost:3000
+```
+
+### :iphone: Mobile
+```bash
+$ cd mobile`
+$ `npm install` 
+$ `npm start` 
+# running in expo simulator
 ```
 
 Project developed during the **NLW - Next Level Week** [Rocketseat]
